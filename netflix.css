@@ -1,0 +1,84 @@
+body{background-image: url(hot\ back.jpg.jpeg);}
+.d9{
+    background-color: red;
+    color: white;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;border-top-left-radius: 5px;border-top-right-radius: 5px;
+    float: right; margin-right: 30px;margin-top: 30px;height: 40px;width: 100px;}
+    .d8{float: right;background-color: black;color: white;margin-right: 40px;margin-top: 30px;height: 40px;width: 100px;}
+h1{
+    color: white;
+    font-size:50px;
+}
+
+h4{
+    color: white;
+    font-size: 25px;
+}
+
+#a{
+    background-image:url(https://assets.nflxext.com/ffe/siteui/vlv3/b321426e-35ae-4661-b899-d63bca17648a/c6e22290-98e5-4eee-b72d-47156e4893fc/IN-en-20220926-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}.d7{display: flex;margin-left: 350px;}
+.r{
+    background-color: red;
+    color: white;
+    font-size: large;
+     }
+.q{
+    padding-right: 300px;
+    padding-top: 20px;
+    text-align: justify;
+}
+#about{
+    background-color: black;
+    color: white;
+    display: flex;
+
+}
+.e{
+    margin-top: 80px;
+    margin-left: 50px;
+    
+    }
+
+.f{
+    
+margin-top: 150px;
+margin-left: 280px;
+}
+
+#b{
+    background-color: black;
+    color: white;
+    display: flex;
+
+}
+
+.s{
+    color: white;
+    margin-top: 60px;
+}
+#c{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.i{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.j{margin-left: 80px;}
+#g{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.l{
+    margin-top: 50px;
+    text-size-adjust: 10px;
+}#d{background-color: black;}.l3{margin-left: 20px;}
+.l1{font-size:50px;margin-left: 360px;color: azure;}.l2{display: flex;color: aliceblue;margin-left: 300px;height: 60px;width: 800px;background-color: rgb(46, 48, 48);} .l4{margin-left:490px ;font-size:20px;}
+.l5{margin-left: 20px;}.l6{margin-left: 360px;font-size: 20px;}.l7{margin-left: 450px;font-size: 20px;}.l8{margin-left: 440px;font-size: 20px;}.l9{margin-left: 20px;}.l10{margin-left:360px ;font-size: 20px;}.l11{margin-left: 410px;font-size: 20px;}
+.m1{color: aliceblue;margin-left: 360px;font-size: 20px;}.n1{margin-left: 350px;}.n{display: flex;}.n2{height: 42px;background-color: red; color: aliceblue;font-size: large;}
+#e{background-color: black;color: aliceblue;}.e1{margin-left: 100px;color: dimgray;} .e2{display: flex;color:gray;} .e3{margin-left: 150px;background-color: black;color: gray;height: 50px;width: 130px;border: 2px solid gray;} .e4{margin-left:150px;color: gray;}
